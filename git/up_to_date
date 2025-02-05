@@ -1,0 +1,6 @@
+git checkout main
+git pull origin main
+touch git/up_to_date
+git add git/up_to_date
+git commit -m "How to be up to date in git"
+git push origin main
